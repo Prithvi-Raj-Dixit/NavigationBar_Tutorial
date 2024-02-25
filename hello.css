@@ -1,0 +1,94 @@
+.left{
+    position: absolute;
+    background-color: white;
+}
+
+.middle{
+    margin-left: 220px;
+}
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+input{
+    position: absolute;
+    height: 30px;
+    width: 120px;
+    margin-left: 90px;
+    background-color: white;
+    border-radius: 10%;
+}
+
+.navbar{
+    height: 40px;
+    border: 2px solid red;
+    background-color: black;
+    border-color: gray;
+}
+
+#mis-part{
+    background-color: black;
+    color: white;
+}
+
+.navbar2{
+    height: 20px;
+    border: 2px solid rgb(203, 201, 201);;
+    background-color: black;
+}
+
+#second{
+    background-color: rgb(199, 246, 199);
+    font-size: 10px;
+    height: 11px;
+    color: black;
+    width: 60px;
+    border-color: green;
+    position: absolute;
+    margin-left: 5px;
+}
+
+
+.left2{
+    position: absolute;
+    font-size: 10px;
+}
+
+p{
+    font-size: 10px;
+    margin-left: 90px;
+}
+
+.content{
+    border: 2px solid black;
+    height: 450px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#bb{
+    background-color: rgb(199, 246, 199);
+    font-size: 10px;
+    height: 18px;
+    color: black;
+    width: 60px;
+    border-color: green;
+    position: absolute;
+    margin-left: 75px;
+}
+
+#bb2{
+    background-color: rgb(199, 246, 199);
+    font-size: 10px;
+    height: 18px;
+    color: black;
+    width: 60px;
+    border-color: green;
+    position: absolute;
+    margin-left: 140px;
+}
